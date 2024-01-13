@@ -18,6 +18,8 @@ class NetworkApiServices extends BaseApiServices {
     'Access-Control-Allow-Headers': 'Content-Type',
   };
 
+  /// api call with get method
+  /// you have to pass [path] as urlPath and [queryParameter] as a parameter
   @override
   Future<dynamic> getApiResponse(
       String path, Map<String, dynamic> queryParameter,

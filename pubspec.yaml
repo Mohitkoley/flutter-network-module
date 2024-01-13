@@ -1,5 +1,5 @@
 name: network
-description: "A new Flutter package project."
+description: "A module for network communication"
 version: 0.0.1
 homepage: mohitkoley.github.io
 

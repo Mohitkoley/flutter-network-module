@@ -1,5 +1,4 @@
-import 'package:flutter_test/flutter_test.dart';
-
-import 'package:network/network.dart';
-
-void main() {}
+void main() {
+  // final examples = Examples();
+  // examples.getApiCall();
+}
